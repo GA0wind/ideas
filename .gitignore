@@ -1,3 +1,1 @@
-/DoneLog/
-/DailyInfo/
-/FoodMap/
+# 子项目各自维护忽略规则；此仓库只追踪子模块提交指针。

@@ -1,0 +1,12 @@
+[submodule "DoneLog"]
+	path = DoneLog
+	url = ../DoneLog.git
+	branch = master
+[submodule "DailyInfo"]
+	path = DailyInfo
+	url = ../DailyInfo.git
+	branch = main
+[submodule "FoodMap"]
+	path = FoodMap
+	url = ../FoodMap.git
+	branch = main
