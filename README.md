@@ -2,7 +2,7 @@
 
 这里放个人工具项目和待验证的想法。[DoneLog](./DoneLog/README.md)、[每日资讯](./DailyInfo/README.md)和[美食地图](./FoodMap/README.md)均作为独立 Git 子模块接入。DoneLog 源码已迁入本目录；两个手机网页应用已私有发布，并增加首次服务配置页。
 
-全新克隆后运行 `git submodule update --init --recursive`。每日资讯和美食地图的 GitHub 同名仓库尚未创建，完成远端发布前，这两个子模块只能在当前本机使用；DoneLog 重写过的清洁历史也尚未推送到 GitHub。
+全新克隆后运行 `git submodule update --init --recursive`。每日资讯和美食地图使用私有 GitHub 仓库，需要有对应访问权限；DoneLog 为公开仓库。
 
 各项目的当前状态见 [项目进度](./PROJECTS.md)。
 
